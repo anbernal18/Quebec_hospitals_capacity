@@ -1,0 +1,110 @@
+installation_id,installation_name,region_code,stretchers,is_region_total
+1,Hôpital de Matane,1,7,0
+2,Centre hospitalier d'Amqui,1,6,0
+3,Hôpital régional de Rimouski,1,12,0
+4,Centre hospitalier Trois-Pistoles,1,3,0
+5,Centre hospitalier régional du Grand Portage,1,9,0
+6,Hôpital de Notre-Dame-du Lac,1,5,0
+7,CLSC de Pohenegamook,1,3,0
+8,Hôpital Notre-Dame-de-Fatima,1,7,0
+9,Total (01) Bas-Saint-Laurent,1,52,1
+10,Hôpital de La Baie,2,7,0
+11,Hôpital de Chicoutimi,2,41,0
+12,Hôpital et Centre de réadaptation de Jonquière,2,16,0
+13,Hôpital d'Alma,2,17,0
+14,"Hôpital, CLSC et Centre d'hébergement de Roberval",2,13,0
+15,Hôpital de Dolbeau-Mistassini,2,10,0
+16,Total (02) Saguenay-Lac-Saint-Jean,2,104,1
+17,Hôpital régional de Portneuf et CLSC Saint-Raymond,3,7,0
+18,CLSC Saint-Marc-des-Carrières,3,3,0
+19,Hôpital Chauveau,3,5,0
+20,Hôpital de Sainte-Anne-de-Beaupré,3,4,0
+21,Hôpital de La Malbaie,3,9,0
+22,Centre hospitalier de l'Université Laval,3,43,0
+23,Hôpital Saint-François-d'Assise,3,34,0
+24,Hôtel-Dieu de Québec,3,15,0
+25,Hôpital de l'Enfant-Jésus,3,48,0
+26,Hôpital du Saint-Sacrement,3,22,0
+27,Institut universitaire de cardiologie et de pneumologie de Québec (IUCPQ),3,20,0
+28,Total (03) Capitale-Nationale,3,210,1
+29,Hôpital Fleurimont,5,36,0
+30,Hôpital Brome-Missisquoi-Perkins,5,16,0
+31,Hôtel-Dieu,5,44,0
+32,Centre hospitalier de Granby,5,20,0
+33,Memphrémagog,5,11,0
+34,MRC-de-Coaticook,5,6,0
+35,Granit,5,5,0
+36,"Hôpital, CLSC et Centre d'hébergement d'Asbestos",5,7,0
+37,Total (05) Estrie,5,145,1
+38,Hôpital Maisonneuve-Rosemont,6,54,0
+39,Centre hospitalier de l'université de Montréal,6,51,0
+40,Hôpital Royal Victoria,6,33,0
+41,Hôpital de Montréal pour enfants,6,12,0
+42,Campus Lachine,6,14,0
+43,Hôpital de Verdun,6,26,0
+44,Hôpital Notre-Dame,6,35,0
+45,Hôpital de La Salle,6,15,0
+46,Hôpital général du Lakeshore,6,31,0
+47,CHU Sainte-Justine,6,16,0
+48,Total (06) Montréal,6,287,1
+49,Hôpital du Pontiac,7,4,0
+50,Hôpital de Hull,7,25,0
+51,Hôpital de Gatineau,7,28,0
+52,Hôpital de Papineau,7,12,0
+53,Hôpital Memorial de Wakefield,7,4,0
+54,Hôpital de Maniwaki,7,6,0
+55,CLSC de Fort-Coulonge,7,2,0
+56,CLSC et Centre d'hébergement la Petite-Nation,7,2,0
+57,Total (07) Outaouais,7,83,1
+58,Hôpital et CLSC de Val-d'Or,8,11,0
+59,Centre hospitalier Hôtel-Dieu d'Amos,8,7,0
+60,Centre hospitalier La Sarre,8,5,0
+61,Centre hospitalier de Rouyn-Noranda,8,8,0
+62,Pavillon Ste-Famille,8,5,0
+63,Total (08) Abitibi-Témiscamingue,8,36,1
+64,Haute-Côte-Nord (Pavillon Forestville),9,5,0
+65,Haute-Côte-Nord (Pavillon Escoumins),9,3,0
+66,Hôpital Le Royer,9,10,0
+67,Port-Cartier,9,5,0
+68,Hôpital et Centre d'hébergement de Sept-Iles,9,10,0
+69,Total (09) Côte-Nord,9,33,1
+70,269,10,1,0
+71,Centre de santé Lebel,10,2,0
+72,Centre de santé Isle-Dieu,10,1,0
+73,Centre de santé René-Ricard,10,1,0
+74,Total (10) Nord-du-Québec,10,5,1
+75,Hôpital de Sainte-Anne-des-Monts,11,6,0
+76,Hôpital de Maria,11,10,0
+77,CLSC de Paspébiac,11,4,0
+78,Hôpital de Chandler,11,8,0
+79,Hôpital Hôtel-Dieu,11,6,0
+80,CLSC de Grande-Vallée,11,2,0
+81,CLSC de Murdochville,11,2,0
+82,Hôpital de l'Archipel,11,6,0
+83,Total (11) Gaspésie-Îles-de-la-Madeleine,11,44,1
+84,Hôpital de Montmagny,12,10,0
+85,Hôtel-Dieu de Lévis,12,43,0
+86,Centre Paul-Gilbert - Centre d'hébergement de Charny,12,0,0
+87,Hôpital de St-Georges,12,21,0
+88,Hôpital de Thetford Mines,12,15,0
+89,Total (12) Chaudière-Appalaches,12,89,1
+90,Hôpital Cité de la Santé,13,49,0
+91,Total (13) Laval,13,49,1
+92,Hôpital Pierre-Le Gardeur,14,47,0
+93,Centre hospitalier régional de Lanaudière,14,42,0
+94,Total (14) Lanaudière,14,89,1
+95,Hôpital de Saint-Eustache,15,35,0
+96,Hôpital régional de Saint-Jérôme,15,47,0
+97,Hôpital Laurentien,15,18,0
+98,Centre de services de Rivière-Rouge,15,5,0
+99,Hôpital de Mont-Laurier,15,8,0
+100,Total (15) Laurentides,15,113,1
+101,Hôtel-Dieu de Sorel,16,17,0
+102,Hôpital Honoré-Mercier,16,26,0
+103,Hôpital Pierre-Boucher,16,47,0
+104,Hôpital Charles Lemoyne,16,43,0
+105,Hôpital du Haut-Richelieu,16,37,0
+106,Centre hospitalier Anna-Laberge,16,32,0
+107,Hôpital Barrie Memorial,16,5,0
+108,Hôpital du Suroît,16,32,0
+109,Total (16) Montérégie,16,239,1
